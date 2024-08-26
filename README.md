@@ -16,7 +16,7 @@ The inspiration for this project is "ILLUSIYELLOW" by ssaamm (?), an earlier and
 The regular font. This is suitable for everyday use with large font sizes (where the font pixels are larger than the screen pixels).
 
 ### SMW Whole-Pixel Spacing
-Same as the SMW font above, but the space between characters is always a whole number of pixels (never half a pixel). This is suitable for cases where the screen pixels are the same size as the font pixels, so the screen doesn't have to render anything small than a pixel.
+Same as the SMW font above, but the space between characters is always a whole number of pixels (never half a pixel). This is suitable for cases where the font pixels are the same size as the screen pixels, so the screen doesn't have to render anything smaller than a pixel.
 
 ### SMW Monospace
 A monospace (fixed-with) font where every character takes up the same space. Some characters are different so they make better use of space. You could use this as a novelty programming font if you're so inclined.
