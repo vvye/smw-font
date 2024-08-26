@@ -34,7 +34,7 @@ You can edit this font yourself, the same way I made it:
 1. Go to https://yal.cc/r/20/pixelfont.
 2. Click "Pick image" and select the image (either SMW.png or SMW Monospace.png, depending on which font variant you're editing).
 3. Click "Menu --> Import settings" and select the settings file (.json).
-4. Make changes as you see fit. (If you're planning to make a pull request, please apply the changes to all three font variants, so they're up to date, and increase the version number in the "Meta" tab [by 0.1 I guess?].)
+4. Make changes as you see fit. (If you're planning to make a pull request, see CONTRIBUTING.md.)
 5. Click "Save TTF".
 
 Note that the space character will always be blank in the generated font file, but its width depends on what the character looks like in the image (that's why there's a dot in the top left).
